@@ -1,4 +1,36 @@
-body{
-background-color:blue;
+ /* Make images and videos responsive */
+img, video {
+  max-width: 100%;
+  height: auto;
 }
+
+/* Set the background color for the body */
+body {
+  background-color: #ccffee;
+  font-family: Arial, sans-serif;
+}body {
+  font-size: 16px; /* Sets base font size */
+}
+
+h1 {
+  font-size: 2em; /* 2 times the body font size */
+}
+body {
+  color: #ab0707; /* Text color */
+  background-color: #ccffee; /* Background color */
+}
+
+p {
+  font-size: 14px; /* Fixed size for paragraphs */
+
+h1, h2, h3, h4, h5, h6{
+  font-family: "Raleway", serif;
+}
+
+
+
+
+
+
+
 
